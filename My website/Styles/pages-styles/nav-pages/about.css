@@ -1,0 +1,28 @@
+/* about page styles */
+.two-column-wrapper {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	background-color: white;
+}
+
+.profile-image-wrapper img {
+	width: 50%;
+	background-color: white;
+}
+
+.profile-content-wrapper {
+	padding: 30px;
+	background-color: white;
+	color: black;
+}
+
+.profile-content-wrapper h1{
+	color: lightseagreen;
+	background-color: white;
+}
+
+.profile-content-wrapper p{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	background-color: white;
+}
